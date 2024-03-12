@@ -12,3 +12,4 @@ pip install llama_index
 
 ## List of projects
 - Basic project which loads, indexes and queries the data: [starter1](./starter1)
+- Basic project which loads, indexes and queries the data with custom chunk size: [starter2](./starter2)
